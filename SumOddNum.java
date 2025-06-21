@@ -4,7 +4,7 @@ public class OddSumWithDisplay {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Input from user
+        
         System.out.print("Enter a number n: ");
         int n = sc.nextInt();
 
