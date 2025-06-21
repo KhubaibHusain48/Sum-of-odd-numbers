@@ -35,8 +35,9 @@ This Java program calculates the **sum of all odd numbers from 1 to N**, where N
 ## 💡 Sample Output
 
 ```
-Enter a number: 10
-Sum of odd numbers from 1 to 10 is 25
+Enter a number n: 10
+Odd numbers from 1 to 10: 1 3 5 7 9 
+Sum of odd numbers: 25
 ```
 
 
